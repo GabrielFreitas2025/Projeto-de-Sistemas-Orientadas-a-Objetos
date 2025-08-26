@@ -80,8 +80,9 @@ O sistema conta com relatórios gerenciais, permitindo visualizar:
 
 ## 👨‍💻 Equipe
 Projeto desenvolvido por:  
-- Gabriel Freitas  
-- Integrantes do grupo PIM III  
+- Gabriel Freitas de Campos
+- Felipe Freitas 
+- 
 
 ---
 
