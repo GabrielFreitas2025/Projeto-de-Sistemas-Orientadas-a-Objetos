@@ -1,55 +1,46 @@
-# Projeto de Sistemas Orientado a Objetos – PIM IV
+# 🤖 Sistema de Suporte Técnico Inteligente (PIM IV)
 
-Repositório destinado à disciplina **Projeto de Sistemas Orientado a Objetos**, contendo materiais, códigos, documentos e demais entregas relacionadas ao **PIM IV**.
-
----
-
-## 📌 Informações do Projeto
-- **Título do Projeto:** Sistema Integrado para Gestão de Chamados e Suporte Técnico baseado em IA  
-- **Objetivo:** Desenvolver um sistema de suporte técnico que permita a abertura, gerenciamento e acompanhamento de chamados de forma integrada, incluindo funcionalidades de inteligência artificial para análise e suporte.  
-- **Período:** 20/08/2025 em diante  
+![Status: Em Andamento](https://img.shields.io/badge/Status-Em%20Andamento-yellowgreen)
+![Tecnologias: Em Discussão](https://img.shields.io/badge/Tecnologias-Em%20Discuss%C3%A3o-blue)
+![Licença: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)
 
 ---
 
-## 📅 Cronograma de Atividades
-- **20/08/2025:** Elaboração do GitHub pessoal e do repositório do projeto.
-- **27/08/2025:** Configuração do ambiente de desenvolvimento.
-- **03/09/2025:** Início da codificação - Módulo de gestão de usuários.
-- **10/09/2025:** Desenvolvimento do módulo de chamados.
-- **17/09/2025:** Desenvolvimento do módulo de suporte técnico.
-- **24/09/2025:** Integração da funcionalidade de IA.
-- **01/10/2025:** Testes unitários e de integração.
-- **08/10/2025:** Correção de bugs e ajustes de interface.
-- **15/10/2025:** Documentação e preparação para a entrega.
-- **22/10/2025:** Entrega final do projeto PIM IV.  
+## ✨ Visão Geral do Projeto
+
+Este repositório é dedicado ao projeto **PIM IV - Projeto de Sistemas Orientado a Objetos**, focado no desenvolvimento de um **Sistema Integrado para Gestão de Chamados e Suporte Técnico baseado em IA**. Nosso objetivo é criar uma solução robusta que otimize o fluxo de trabalho de equipes de suporte, permitindo a abertura, o gerenciamento e o acompanhamento de chamados de forma integrada e inteligente.
+
+O sistema incluirá funcionalidades de inteligência artificial para categorização automática, roteamento de chamados e sugestões de solução, reduzindo o tempo de resposta e aumentando a eficiência do suporte técnico.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-- Ainda em discussão  
+## 📌 Recursos e Funcionalidades
+
+O sistema será desenvolvido com as seguintes funcionalidades principais:
+
+* **Abertura e Gestão de Chamados:** Interface intuitiva para usuários abrirem novos tickets e acompanharem o status.
+* **Análise de IA:** Uso de IA para categorizar automaticamente os chamados e sugerir soluções com base em um banco de dados de conhecimento.
+* **Painel de Suporte:** Um dashboard centralizado para a equipe de suporte gerenciar, atribuir e fechar chamados.
+* **Integração de Conhecimento:** Módulo para a criação e busca de artigos e tutoriais.
+* **Relatórios e Métricas:** Geração de relatórios sobre o desempenho da equipe, tempo de resposta e tipos de chamados mais frequentes.
+* **Gerenciamento de Usuários:** Módulo de controle de acesso para diferentes perfis (usuário final, técnico, administrador).
+
+---
+
+## 💻 Tecnologias Sugeridas
+
+A tecnologia será um pilar central do nosso projeto. Abaixo, estão as ferramentas e linguagens em discussão para a sua construção:
+
+* **Backend:** Python (com framework **Django** ou **Flask** para a API)
+* **Frontend:** JavaScript (com biblioteca **React** ou **Vue.js**)
+* **Banco de Dados:** **PostgreSQL** (para garantir escalabilidade e integridade dos dados)
+* **IA/ML:** Bibliotecas como **Scikit-learn** ou **spaCy** para processamento de linguagem natural (NLP).
+* **Gerenciamento de Pacotes:** `pipenv` ou `npm`
+* **Versionamento:** Git
 
 ---
 
 ## 📂 Estrutura do Repositório
-- **/documentacao** → Arquivos de requisitos, UML, manuais e relatórios.  
-- **/prototipos** → Telas e protótipos do sistema.  
-- **/codigo** → Código-fonte do sistema.  
-- **/entregas** → Versões entregues conforme cronograma.  
 
----
+A organização do código é essencial. O repositório seguirá a seguinte estrutura:
 
-## 👥 Equipe  
-
-| Membro                        | Função        | GitHub                                                                 | LinkedIn                                                                 |
-|-------------------------------|--------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Maria Luíza Fonseca Amaro     | Product Owner | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
-| Felipe Freitas da Rocha       | Scrum Master  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
-| Ana Beatriz Barni Franco      | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
-| Gabriel Freitas de Campos     | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
-| Maio de Almeida Braga         | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
-| Nicolas Furtado Rodrigues     | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
-
----
-
-## ✅ Status do Projeto
-Em andamento 🚀
