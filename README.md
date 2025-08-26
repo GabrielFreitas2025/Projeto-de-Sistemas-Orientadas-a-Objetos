@@ -78,11 +78,17 @@ O sistema conta com relatórios gerenciais, permitindo visualizar:
 
 ---
 
-## 👨‍💻 Equipe
-Projeto desenvolvido por:  
-- Gabriel Freitas de Campos
-- Felipe Freitas 
-- 
+## 👥 Equipe  
+
+| Membro                        | Função        | GitHub                                                                 | LinkedIn                                                                 |
+|-------------------------------|--------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Maria Luíza Fonseca Amaro     | Product Owner | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Felipe Freitas da Rocha       | Scrum Master  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Ana Beatriz Barni Franco      | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Gabriel Freitas de Campos     | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Maio de Almeida Braga         | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Nicolas Furtado Rodrigues     | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+
 
 ---
 
