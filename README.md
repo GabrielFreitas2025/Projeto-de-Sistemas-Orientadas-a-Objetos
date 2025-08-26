@@ -1,43 +1,58 @@
-# Sistema Integrado para Gestão de Chamados e Suporte Técnico baseado em IA
+# Projeto de Sistemas Orientado a Objetos – PIM IV
 
-## 📖 Sobre o Projeto
-Este projeto tem como objetivo desenvolver um sistema integrado para gerenciamento de chamados de suporte técnico, utilizando inteligência artificial para análise preditiva, organização e otimização do fluxo de atendimento.  
+Repositório destinado à disciplina **Projeto de Sistemas Orientado a Objetos**, contendo materiais, códigos, documentos e demais entregas relacionadas ao **PIM IV**.
 
-Ele foi desenvolvido como parte do **Projeto Integrado Multidisciplinar (PIM III)** do curso de **Análise e Desenvolvimento de Sistemas** da UNIP.
+---
+
+## 📌 Informações do Projeto
+- **Título do Projeto:** Sistema Integrado para Gestão de Chamados e Suporte Técnico baseado em IA  
+- **Objetivo:** Desenvolver um sistema de suporte técnico que permita a abertura, gerenciamento e acompanhamento de chamados de forma integrada, incluindo funcionalidades de inteligência artificial para análise e suporte.  
+- **Período:** 20/08/2025 em diante  
+
+---
+
+## 👥 Equipe  
+
+| Membro                        | Função        | GitHub                                                                 | LinkedIn                                                                 |
+|-------------------------------|--------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Maria Luíza Fonseca Amaro     | Product Owner | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Felipe Freitas da Rocha       | Scrum Master  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Ana Beatriz Barni Franco      | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Gabriel Freitas de Campos     | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Maio de Almeida Braga         | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
+| Nicolas Furtado Rodrigues     | Dev           | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)]() | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() |
 
 ---
 
 ## 📅 Cronograma de Atividades
-
-| Data       | Atividade                                                      |
-|------------|----------------------------------------------------------------|
-| 20/08/2025 | Definição do tema e da problemática                            |
-| 25/08/2025 | Pesquisa sobre sistemas de chamados existentes                 |
-| 30/08/2025 | Elaboração do escopo do projeto                                |
-| 05/09/2025 | Modelagem inicial do banco de dados                            |
-| 10/09/2025 | Criação dos protótipos de telas                                |
-| 20/09/2025 | Desenvolvimento da estrutura principal do sistema              |
-| 30/09/2025 | Implementação do CRUD de chamados                              |
-| 05/10/2025 | Integração com IA preditiva                                    |
-| 15/10/2025 | Testes funcionais e ajustes                                    |
-| 25/10/2025 | Criação de relatórios e dashboards                             |
-| 05/11/2025 | Documentação final                                             |
-| 10/11/2025 | Apresentação do projeto                                        |
+- **20/08/2025:** Definição do tema e divisão de tarefas.  
+- **27/08/2025:** Levantamento de requisitos e regras de negócio.  
+- **03/09/2025:** Modelagem UML inicial (casos de uso, classes, sequência).  
+- **10/09/2025:** Protótipos de interface.  
+- **17/09/2025:** Estruturação do banco de dados.  
+- **24/09/2025:** Desenvolvimento inicial do sistema.  
+- **01/10/2025:** Integração das funcionalidades principais.  
+- **08/10/2025:** Testes e ajustes.  
+- **15/10/2025:** Documentação final.  
+- **22/10/2025:** Entrega oficial do PIM IV.  
 
 ---
 
-## 🚀 Funcionalidades
-- Cadastro e gerenciamento de chamados de suporte
-- Classificação automática de chamados com IA
-- Geração de relatórios e dashboards
-- Histórico completo de atendimentos
-- Exportação de relatórios em PDF
-- Interface intuitiva e organizada
+## 🛠️ Tecnologias Utilizadas
+- Ainda em discussão  
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-> **Ainda em discussão**  
+## 📂 Estrutura do Repositório
+- **/documentacao** → Arquivos de requisitos, UML, manuais e relatórios.  
+- **/prototipos** → Telas e protótipos do sistema.  
+- **/codigo** → Código-fonte do sistema.  
+- **/entregas** → Versões entregues conforme cronograma.  
+
+---
+
+## ✅ Status do Projeto
+Em andamento 🚀
 A equipe está avaliando as melhores opções de linguagens, frameworks e bibliotecas para atender aos requisitos do projeto.
 
 ---
